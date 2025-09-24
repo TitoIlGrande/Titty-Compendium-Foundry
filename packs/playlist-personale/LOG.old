@@ -1,3 +1,8 @@
-2025/09/24-04:09:08.327 c498 Recovering log #27
-2025/09/24-04:09:08.329 c498 Delete type=0 #27
-2025/09/24-04:09:08.330 c498 Delete type=3 #26
+2025/09/24-13:52:44.256 11d7c Recovering log #29
+2025/09/24-13:52:44.259 11d7c Delete type=0 #29
+2025/09/24-13:52:44.259 11d7c Delete type=3 #28
+2025/09/24-13:54:18.759 e2a8 Level-0 table #33: started
+2025/09/24-13:54:18.759 e2a8 Level-0 table #33: 0 bytes OK
+2025/09/24-13:54:18.760 e2a8 Delete type=0 #31
+2025/09/24-13:54:18.762 e2a8 Manual compaction at level-0 from '!playlists!8wjv23WKMmnwd0qN' @ 72057594037927935 : 1 .. '!playlists!8wjv23WKMmnwd0qN' @ 0 : 0; will stop at (end)
+2025/09/24-13:54:18.762 e2a8 Manual compaction at level-1 from '!playlists!8wjv23WKMmnwd0qN' @ 72057594037927935 : 1 .. '!playlists!8wjv23WKMmnwd0qN' @ 0 : 0; will stop at (end)
