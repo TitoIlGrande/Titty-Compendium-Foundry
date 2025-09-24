@@ -1,59 +1,59 @@
 {
-  "id": "titty-compendium",
-  "title": "1° Compendium Personale",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "flags": {
-    "canUpload": true
-  },
-  "packs": [
-    {
-      "name": "items-personali",
-      "label": "Items Personali",
-      "path": "packs/items-personali",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+    "id": "titty-compendium",
+    "title": "Titty Compendium Personale",
+    "version": "1.0.1",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
     },
-    {
-      "name": "actors-personali",
-      "label": "Actors Personali",
-      "path": "packs/actors-personali",
-      "type": "Actor",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
+    "flags": {
+        "canUpload": true
     },
-    {
-      "name": "playlist-personale",
-      "label": "Playlist Personale",
-      "path": "packs/playlist-personale",
-      "type": "Playlist",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "scene-personali",
-      "label": "Scene Personali",
-      "path": "packs/scene-personali",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
-    }
-  ],
-  "description": ""
+    "packs": [
+        {
+            "name": "items-personali",
+            "label": "Items Personali",
+            "path": "packs/items-personali",
+            "type": "Item",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "actors-personali",
+            "label": "Actors Personali",
+            "path": "packs/actors-personali",
+            "type": "Actor",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "playlist-personale",
+            "label": "Playlist Personale",
+            "path": "packs/playlist-personale",
+            "type": "Playlist",
+            "system": "dnd5e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "scene-personali",
+            "label": "Scene Personali",
+            "path": "packs/scene-personali",
+            "type": "Scene",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e"
+        }
+    ],
+    "description": ""
 }
