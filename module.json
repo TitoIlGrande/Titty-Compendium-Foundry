@@ -1,7 +1,7 @@
 {
     "id": "titty-compendium",
     "title": "Titty Compendium Personale",
-    "version": "1.0.10",
+    "version": "1.1.0",
     "compatibility": {
         "minimum": "13",
         "verified": "13"
@@ -55,5 +55,10 @@
             "system": "dnd5e"
         }
     ],
-    "description": ""
+    "description": "",
+    "url": "https://github.com/TitoIlGrande/Titty-Compendium-Foundry",
+    "manifest": "https://github.com/TitoIlGrande/Titty-Compendium-Foundry/raw/main/module.json",
+    "download": "https://github.com/TitoIlGrande/Titty-Compendium-Foundry/archive/refs/heads/main.zip",
+    "socket": true,
+    "relationships": {}
 }
